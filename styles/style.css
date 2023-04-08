@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  background-image: url(/source/1page-Background.jpg);
+  background-image: url(../source/1page-Background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
@@ -180,7 +180,7 @@ header {
 }
 
 .about-bgc {
-  background-image: url(/source/Aкции.jpg);
+  background-image: url(../source/Aкции.jpg);
   height: 350px;
   display: flex;
   margin: 0 auto;
@@ -293,7 +293,7 @@ header {
 .question-container-bgc {
   height: 380px;
   width: 1500px;
-  background-image: url(/source/Rectangle\ 18.jpg);
+  background-image: url(../source/Rectangle\ 18.jpg);
   text-align: center;
 }
 .question-container-bgc h3 {
